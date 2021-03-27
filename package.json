@@ -1,7 +1,7 @@
 {
   "name": "babel-load-path-plugin",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "repository": "git@github.com:frankshin/babel-load-path-plugin.git",
   "author": "dengweixu <1103579820@qq.com>",
   "license": "MIT",
