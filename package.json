@@ -5,6 +5,9 @@
   "repository": "git@github.com:frankshin/babel-load-path-plugin.git",
   "author": "dengweixu <1103579820@qq.com>",
   "license": "MIT",
+  "scripts": {
+    "release": "npm publish"    
+  },
   "devDependencies": {
     "eslint": "^7.22.0",
     "eslint-config-airbnb": "^18.2.1"
